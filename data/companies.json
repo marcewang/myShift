@@ -1,0 +1,32 @@
+[
+  {
+    "key": "01",
+    "name": "Canadian Natural Resources Ltd",
+    "shifts": ["A", "B", "C"]
+  },
+  {
+    "key": "02",
+    "name": "Agrium Inc",
+    "shifts": ["A", "B", "C"]
+  },
+  {
+    "key": "03",
+    "name": "GoldCorp Inc",
+    "shifts": ["A", "B", "C"]
+  },
+  {
+    "key": "04",
+    "name": "The Barrick Gold Corporation",
+    "shifts": ["A", "B", "C"]
+  },
+  {
+    "key": "05",
+    "name": "Teck Resources",
+    "shifts": ["A", "B", "C"]
+  },
+  {
+    "key": "06",
+    "name": "Adex Mining",
+    "shifts": ["A", "B", "C"]
+  }
+]
